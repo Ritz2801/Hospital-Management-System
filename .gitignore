@@ -1,0 +1,11 @@
+bin/
+*.class
+
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+target/
+
+*.log
