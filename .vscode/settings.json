@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "hms-backend/src/main/java"
+    ],
+
+    "java.project.outputPath": "bin",
+
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:/Users/DELL/Downloads/openjfx-21.0.11_windows-x64_bin-sdk/javafx-sdk-21.0.11/lib/*.jar"
+    ],
+
+    "java.configuration.updateBuildConfiguration": "interactive",
+
+    "java.compile.nullAnalysis.mode": "automatic",
+
+    "java.project.explorer.showNonJavaResources": true
+}
